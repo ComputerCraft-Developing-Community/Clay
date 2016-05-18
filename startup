@@ -1,0 +1,4 @@
+term.setBackgroundColor(colors.lightBlue)
+term.clear()
+logo = paintutils.loadImage("OS/Clay/img/logo")
+paintutils.drawImage(logo,1,1)
